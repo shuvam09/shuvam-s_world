@@ -1,0 +1,17 @@
+E:\Freelancing\VS Working Folder\Travel\Travel\bin\Travel.dll.config
+E:\Freelancing\VS Working Folder\Travel\Travel\bin\Travel.dll
+E:\Freelancing\VS Working Folder\Travel\Travel\bin\Travel.pdb
+E:\Freelancing\VS Working Folder\Travel\Travel\obj\Debug\Travel.csprojResolveAssemblyReference.cache
+E:\Freelancing\VS Working Folder\Travel\Travel\obj\Debug\Travel.dll
+E:\Freelancing\VS Working Folder\Travel\Travel\obj\Debug\Travel.pdb
+E:\FRELANCING\my\Travel\Travel\bin\Travel.dll
+E:\FRELANCING\my\Travel\Travel\bin\Travel.pdb
+E:\FRELANCING\my\Travel\Travel\obj\Debug\Travel.dll
+E:\FRELANCING\my\Travel\Travel\obj\Debug\Travel.pdb
+E:\FRELANCING\my\Travel\Travel\obj\Debug\Travel.csprojResolveAssemblyReference.cache
+G:\project\Travel(26-09-19)\Travel\bin\Travel.dll.config
+G:\project\Travel(26-09-19)\Travel\bin\Travel.dll
+G:\project\Travel(26-09-19)\Travel\bin\Travel.pdb
+G:\project\Travel(26-09-19)\Travel\obj\Debug\Travel.csprojResolveAssemblyReference.cache
+G:\project\Travel(26-09-19)\Travel\obj\Debug\Travel.dll
+G:\project\Travel(26-09-19)\Travel\obj\Debug\Travel.pdb
